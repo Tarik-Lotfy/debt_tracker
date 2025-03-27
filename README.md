@@ -15,7 +15,10 @@ A modern Flutter application for tracking and managing your debts with a beautif
 
 ## Demo Video
 
-https://github.com/Tarik-Lotfy/debt_tracker/assets/your-video-asset-id/demoapp.mp4
+<video width="320" height="240" controls>
+  <source src="demo/demoapp.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Screenshots
 
