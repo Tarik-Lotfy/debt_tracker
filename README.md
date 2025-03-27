@@ -13,6 +13,10 @@ A modern Flutter application for tracking and managing your debts with a beautif
 - 🗑️ Delete debts and payments
 - 💾 Persistent data storage using SQLite
 
+## Demo Video
+
+[Watch Demo Video](demo/demoapp.mp4)
+
 ## Screenshots
 
 [![[2025-03-27-13-08-03.mp4]]]
