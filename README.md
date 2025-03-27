@@ -15,7 +15,7 @@ A modern Flutter application for tracking and managing your debts with a beautif
 
 ## Screenshots
 
-[Add screenshots of your app here]
+[![[2025-03-27-13-08-03.mp4]]]
 
 ## Project Structure
 
